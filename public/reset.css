@@ -1,0 +1,8 @@
+html,
+body,
+#root,
+.ant-layout {
+  height: 100%;
+}
+
+/* 记得引入到html */
